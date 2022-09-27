@@ -6,7 +6,7 @@ package com.mt.sample;
  */
 import java.util.Date;
 
-public class HelloWorld {
+public class hellodevops {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Engineers, Welcome to Landmark Technologies DevOps Master Class. You are sudying Maven Build Tool. !! Today Date is:  " + getLocalCurrentDate());
